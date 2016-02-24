@@ -10,7 +10,7 @@ public class Item {
         setValue(value);
     }
     /**
-     *  j'ai modifié ça
+     *  Un commentaire à l'exigence #1
      *  @return
      */
     public Object getValue(){

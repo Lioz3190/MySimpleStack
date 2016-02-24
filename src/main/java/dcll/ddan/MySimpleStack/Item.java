@@ -11,7 +11,6 @@ public class Item {
     }
     /**
      *  Un commentaire à l'exigence #1
-     *  + correction
      *  @return
      */
     public Object getValue(){
